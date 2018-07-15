@@ -4,7 +4,7 @@
 
 ## Contents
 
-[01 - Allucio and the Observatory](01 - Allucio and the Observatory.md)
+[01 - Allucio and the Observatory](01+-+Allucio+and+the+Observatory.md)
 [02 - Becoming Keeper, meeting the trustee](02 - Becoming Keeper, meeting the trustee.md)
 [03 - The signals from Heaven](03 - The signals from Heaven.md)
 [04 - Going upriver](04 - Going upriver.md)
