@@ -32,7 +32,7 @@
 
 [14 - Digging](14_Digging.md)
 
-[15 - Found the structure](15_Found_the_structure.md)
+[15 - Found the Structure](15_Found_the_Structure.md)
 
 [16 - The new Supreme Priest](16_The_new_Supreme_Priest.md)
 
