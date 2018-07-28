@@ -1,6 +1,16 @@
 # The Gods that Weren't
 
+After centuries separated, two societies meet again.
+
 ![Cover Page](images/title_page.png)
+
+Heaven and Mother are twin planets, tide-locked to one another.   
+
+After a great war, Mother's extra-planetary colonies in Heaven remained separated from their home planet for centuries. Unlike their home planet, they kept and survived thanks to the technological advances they retained from earlier times.   They want and need to reestablish contact with their cousins. The problem is that Heaven is the residence of the Gods, which they aren't, and their existence brings back bad memories of the War that got them there.
+
+Heaven's agents have been living surreptitiously in Mother for decades.  Their shipments of resources from Mother allowed the population on Heaven to expand significantly, but to cross the threshold of self-sustainability, they have to trade openly. They have to make their existence known.
+
+They need to make contact.
 
 ## Contents
 
