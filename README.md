@@ -12,6 +12,14 @@ Algunas cosas que escribí, capítulos de novelas todavía en desorden, pequeño
 
 Una idea inconclusa.  Escribí algunos capítulos, pero realmente no tenía un final, no sabía para donde ir.
 
+## Esferas
+
+[Sumario](Esferas/Readme.md)
+
+[Contenido](Esferas/Readme.md#contenido)
+
+Una combinación de enormes globos aerostáticos /ciudades flotantes con una distopía más. Otra idea inconclusa.
+
 ## The Gods that Weren't
 
 [Cover](The_Gods_that_Weren_t/Readme.md#the-gods-that-werent)
